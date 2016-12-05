@@ -1,0 +1,13 @@
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor.csprojResolveAssemblyReference.cache
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\TestEncryptDecrypt.Form1.resources
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor.csproj.GenerateResource.Cache
+D:\Dokumen\Kuliah\Kriptografi\Criptor\bin\Debug\Cryptor 1.0.exe
+D:\Dokumen\Kuliah\Kriptografi\Criptor\bin\Debug\Cryptor 1.0.pdb
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor.Properties.Resources.resources
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor 1.0.exe
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor 1.0.pdb
+D:\Dokumen\Kuliah\Kriptografi\Criptor\bin\Debug\Cryptor 1.0.exe.manifest
+D:\Dokumen\Kuliah\Kriptografi\Criptor\bin\Debug\Cryptor 1.0.application
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor 1.0.TrustInfo.xml
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor 1.0.exe.manifest
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\Cryptor 1.0.application

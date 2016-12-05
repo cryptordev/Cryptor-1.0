@@ -1,0 +1,10 @@
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\bin\Debug\TestEncryptDecrypt.exe
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\bin\Debug\TestEncryptDecrypt.pdb
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\obj\Debug\TestEncryptDecrypt.csprojResolveAssemblyReference.cache
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\obj\Debug\TestEncryptDecrypt.Form1.resources
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\obj\Debug\TestEncryptDecrypt.Properties.Resources.resources
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\obj\Debug\TestEncryptDecrypt.csproj.GenerateResource.Cache
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\obj\Debug\TestEncryptDecrypt.exe
+D:\Dokumen\Kuliah\Kriptografi\FP\New folder\TestEncryptDecrypt\TestEncryptDecrypt\obj\Debug\TestEncryptDecrypt.pdb
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\TestEncryptDecrypt.exe
+D:\Dokumen\Kuliah\Kriptografi\Criptor\obj\Debug\TestEncryptDecrypt.pdb
