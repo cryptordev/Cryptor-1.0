@@ -259,5 +259,10 @@ namespace TestEncryptDecrypt
         {
             System.Diagnostics.Process.Start("https://cryptordev.github.io/");
         }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cryptor 1.0.exe" size="784832">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cryptor 1.0.exe" size="785344">
       <assemblyIdentity name="Cryptor 1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>n7ax7jQtUKBdrb0wqcwEWDU3S5U=</dsig:DigestValue>
+        <dsig:DigestValue>C15RYJ10c2EKw1A4sNyV5JiceJk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
